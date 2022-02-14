@@ -1,0 +1,17 @@
+{
+  "firstName": "Dima",
+  "age": 25,
+  "maried": true,
+  "children": null,
+  "friends": [
+    "Aleksandr",
+    20,
+    true
+  ],
+  "address": {
+    "country":"Russia",
+    "city": "Moscow",
+    "course": 5,
+    "science": "IT"
+  }
+}

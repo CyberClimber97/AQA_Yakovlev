@@ -1,0 +1,15 @@
+student:
+  name: Joe
+  greeting: "Joe \"The Greatest\" Thompson"
+  age: 19
+  height:1.81
+  married: False
+  story: >
+    Joe was born in Armenia on 1-st January
+  children: null
+  pets: 1
+  country: Russia
+  city: Miass
+  enemies:
+    - Lada
+

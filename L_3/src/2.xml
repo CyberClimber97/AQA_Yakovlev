@@ -1,0 +1,13 @@
+<students>
+    <student id="1" name="Dima" gender="M">
+            <activities>
+                <intrnal>
+                    <activity date="01.01.2020" description="party"/>
+                    <activity date="02.01.2020" description="afterparty"/>
+                </intrnal>
+                <public>
+                    <activity date="03.02.2020" description="exercise"/>
+                </public>
+            </activities>
+    </student>
+</students>
